@@ -16,4 +16,5 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
           token: ${{ secrets.METRICS_TOKEN }}
