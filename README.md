@@ -6,7 +6,7 @@
 
 I build and evaluate machine-learning systems across **Computer Vision**, **NLP**, and **Explainable AI**, with a focus on reproducible experiments and well-structured research software.
 
-[LinkedIn](https://www.linkedin.com/in/zizzi-stefano) · [Repositories](https://github.com/itsPinguiz?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/zizzi-stefano) · [Repositories](https://github.com/itsPinguiz?tab=repositories)·[Website](https://itspinguiz.github.io/)
 
 </div>
 
